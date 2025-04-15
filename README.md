@@ -30,4 +30,5 @@ Este é um projeto simples e interativo criado com HTML, CSS e JavaScript, que p
 - JavaScript: Lógica para cálculo da idade e manipulação dinâmica do DOM.
 
 👨‍💻 Autor
+
 Carlos Martins
